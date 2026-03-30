@@ -61,7 +61,7 @@ If you or someone you know has been a victim of any cybercrime — including onl
 
 ---
 
-## Reflection (Q26 — Project Report)
+## Reflection 
 
 What surprised me most while researching cybercrime was how commonplace and easily executable UPI collect-request scams are — no hacking skills are required; all it takes is a believable message and a moment of inattention from the victim. I had assumed cybercrime required technical sophistication, but the reality is that most fraud exploits human trust rather than technical vulnerabilities. As a result, I will personally change one habit: I will stop auto-approving UPI notifications without reading the transaction details, and I will always verify the purpose and sender before entering my PIN — no matter how urgent the request seems.
 

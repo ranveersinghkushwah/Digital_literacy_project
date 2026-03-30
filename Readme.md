@@ -54,7 +54,7 @@ Solved a coding problem on HackerRank and created a Google Form quiz for awarene
 Drafted professional emails and created a social media usage checklist.
 
  🔴 Task 5 – Cybercrime Awareness
-Developed a case study on UPI fraud along with a prevention checklist.
+Developed a case study on cyberbullying along with a prevention checklist.
 
 ---
 

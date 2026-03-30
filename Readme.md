@@ -59,9 +59,9 @@ Developed a case study on UPI fraud along with a prevention checklist.
 ---
 
  🔗 Useful Links
-- GitHub Profile: https://github.com/tokyoto6737  
-- LinkedIn Profile:  https://www.linkedin.com/in/raj-priy/ 
-- Google Form: https://forms.gle/ZBJYXtz3NCFFuzro7 
+- GitHub Profile: https://github.com/ranveersinghkushwah
+- LinkedIn Profile: https://www.linkedin.com/in/ranveer-singh-00a78a375/
+- Google Form: https://forms.gle/SKFNxQe8rvZLr4oN7
 
 ---
 

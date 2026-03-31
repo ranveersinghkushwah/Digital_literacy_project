@@ -1,70 +1,72 @@
 # Stay Safe Online — Prevention Checklist
 **Digital Literacy Awareness | Task 5 | VIT Student Digital Ambassador Programme**
-
+ 
 > A practical guide for college students in India to stay safe from cybercrime.
-
+ 
 ---
-
+ 
 ## General Online Safety
-
-- [ ] **Use strong, unique passwords** for every account — at least 12 characters with a mix of letters, numbers, and symbols. Use a password manager (like Bitwarden or Google Password Manager) to remember them.
-
-- [ ] **Enable Two-Factor Authentication (2FA)** on all important accounts — email, social media, banking apps, and college portals. Even if your password is stolen, 2FA blocks unauthorized access.
-
-- [ ] **Never click on suspicious links** in emails, SMS, or WhatsApp messages — even if they appear to be from your bank, college, or a government authority. Always verify by visiting the official website directly.
-
-- [ ] **Check for HTTPS** before entering any personal or login information on a website. Look for the padlock icon in the browser address bar. Avoid sites that show "Not Secure."
-
-- [ ] **Keep your devices and apps updated.** Software updates patch security vulnerabilities that hackers actively exploit. Enable auto-updates wherever possible.
-
-- [ ] **Avoid using public Wi-Fi** for sensitive activities like net banking, logging into college systems, or accessing personal email. If you must, use a trusted VPN.
-
-- [ ] **Review app permissions regularly.** Many apps request access to your contacts, camera, and location unnecessarily. Revoke permissions that are not needed for the app's core function.
-
-- [ ] **Log out of shared or public devices** — college computer labs, cybercafes, or a friend's phone — after use. Never save passwords on devices you don't own.
-
+ 
+- [ ] **Use strong, unique passwords** for every account — at least 12 characters with a mix of letters, numbers, and symbols. A password manager like Bitwarden or Google Password Manager makes this way easier than it sounds.
+ 
+- [ ] **Turn on Two-Factor Authentication (2FA)** for your email, social media, banking apps, and college portals. It's a small extra step that can save you a massive headache if your password ever gets compromised.
+ 
+- [ ] **Don't click on random links** in emails, SMS, or WhatsApp — even if they look like they're from your bank, college, or a government body. When in doubt, go directly to the official website instead.
+ 
+- [ ] **Look for HTTPS and the padlock icon** before typing any personal or login information on a website. If it says "Not Secure," close the tab and walk away.
+ 
+- [ ] **Keep your apps and devices updated.** It's annoying, yes — but those updates exist for a reason. Hackers actively look for unpatched software to exploit.
+ 
+- [ ] **Stay off public Wi-Fi for anything sensitive** — net banking, college portals, personal email. If you really have no other option, use a trusted VPN.
+ 
+- [ ] **Audit your app permissions once in a while.** That flashlight app does not need access to your contacts. Go revoke what doesn't make sense.
+ 
+- [ ] **Always log out on shared devices** — computer labs, cybercafes, a friend's phone. Never let the browser save your password on a device that isn't yours.
+ 
 ---
-
+ 
 ## Financial & UPI Safety (Mandatory)
-
-- [ ] **Never share your UPI PIN, OTP, or bank account details with anyone** — not even someone claiming to be from your bank, NPCI, or a government helpline. Legitimate institutions never ask for these over call or message.
-
-- [ ] **Beware of "collect request" scams on UPI.** Receiving a UPI collect request does NOT mean you are receiving money — approving it will deduct money from your account. Always read the request details before entering your PIN.
-
-- [ ] **Double-check the recipient's UPI ID or QR code** before confirming any payment. Fraudsters create fake QR codes or IDs that look nearly identical to real ones, especially for marketplace or hostel transactions.
-
-- [ ] **Do not scan unknown QR codes** sent via WhatsApp or other platforms to "receive" payments. Scanning a malicious QR can initiate an unauthorized payment from your account.
-
+ 
+- [ ] **Never share your UPI PIN, OTP, or bank details with anyone.** Not a caller claiming to be from your bank, not someone from "NPCI," not a government helpline. Real institutions never ask for these over a call or message. Ever.
+ 
+- [ ] **A UPI collect request is NOT incoming money.** This one trips up a lot of people — approving it means money *leaves* your account. Always read what you're approving before entering your PIN.
+ 
+- [ ] **Verify the UPI ID or QR code before every payment.** Scammers create IDs and QR codes that look almost identical to real ones — especially common in hostel or marketplace transactions. One second of verification can save thousands.
+ 
+- [ ] **Don't scan QR codes sent by strangers to "receive" payment.** That's not how receiving money works. Scanning a malicious QR can silently initiate a payment *from* your account.
+ 
 ---
-
+ 
 ## Social Media & Identity Safety
-
-- [ ] **Set your social media profiles to private.** Limit who can see your posts, phone number, and location — especially on Instagram, Snapchat, and Facebook.
-
-- [ ] **Do not share personal details publicly** — home address, college ID, Aadhaar number, or daily routine — as these can be used for identity theft or targeted harassment.
-
-- [ ] **Think before you post.** Content shared online can be screenshotted, saved, and misused. Once something is online, you may not be able to fully remove it.
-
+ 
+- [ ] **Make your profiles private.** Control who sees your posts, number, and location — especially on Instagram, Snapchat, and Facebook.
+ 
+- [ ] **Keep personal details off public posts** — your address, college ID, Aadhaar number, daily schedule. These details can be used against you in ways you wouldn't expect.
+ 
+- [ ] **Pause before you post.** Screenshots are forever. Once something is out there, you rarely get full control back.
+ 
 ---
-
+ 
 ## Reporting Cybercrime in India
-
-If you or someone you know has been a victim of any cybercrime — including online fraud, cyberbullying, identity theft, or UPI scams — report it immediately through the official channels below:
-
+ 
+If you or someone you know has been targeted — whether it's online fraud, cyberbullying, identity theft, or a UPI scam — report it as soon as possible through these official channels:
+ 
 | Channel | Details |
 |---|---|
 | **National Cyber Crime Reporting Portal** | [cybercrime.gov.in](https://cybercrime.gov.in) |
-| **National Helpline** | **1930** (available 24x7) |
-| **Local Cyber Cell** | Contact your nearest police station's cyber wing |
-
-> **Tip:** When reporting, keep screenshots, transaction IDs, phone numbers, or URLs as evidence. Report as early as possible — faster reporting increases the chance of recovery in financial fraud cases.
-
+| **National Helpline** | **1930** (24x7) |
+| **Local Cyber Cell** | Your nearest police station's cyber wing |
+ 
+> **Before you report:** Save screenshots, transaction IDs, phone numbers, and any relevant URLs. The sooner you report financial fraud, the better your chances of recovering the money.
+ 
 ---
-
-## Reflection 
-
-What surprised me most while researching cybercrime was how commonplace and easily executable UPI collect-request scams are — no hacking skills are required; all it takes is a believable message and a moment of inattention from the victim. I had assumed cybercrime required technical sophistication, but the reality is that most fraud exploits human trust rather than technical vulnerabilities. As a result, I will personally change one habit: I will stop auto-approving UPI notifications without reading the transaction details, and I will always verify the purpose and sender before entering my PIN — no matter how urgent the request seems.
-
+ 
+## Reflection
+ 
+What genuinely surprised me while putting this together was how low the barrier is for UPI collect-request scams. No technical skills, no hacking — just a convincing message and a moment where the victim isn't paying close attention. I'd always assumed cybercrime involved some level of sophistication, but most of it is just exploiting trust.
+ 
+That realization hit close enough that I'm making one concrete change: I'm going to stop reflexively approving UPI notifications. From now on, I'll actually read the request — who sent it, what it's for — before I even think about entering my PIN. No exceptions, no matter how urgent it seems.
+ 
 ---
-
+ 
 *Prepared by: Ranveer | VIT Bhopal | Student Digital Ambassador | Task 5 — Cybercrime Awareness*
